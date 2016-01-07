@@ -1,0 +1,60 @@
+html {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+#logo1 {
+  font-size: 60px;
+}
+
+#logo_saying {
+  font-size: 30px;
+}
+p, li {
+  font-size: 25px;  
+}
+
+#parody_disclaimer {
+  font-size: 10px;
+}
+
+html {
+   background-color: #00539F;
+}
+
+body {
+  width: 80%;
+  margin: 0 auto;
+  /* background-color: #FF9500; */
+  background-color: #BBBBBB;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;  
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
+
+button {
+	width: 25%;	
+	font-size: 30px;
+	background-color: #3385FF;
+	color: #000033;
+	text-decoration: none;
+	border: 2px solid;
+	border-radius: 2px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
