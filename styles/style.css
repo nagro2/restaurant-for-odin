@@ -1,6 +1,7 @@
 html {
   font-size: 10px;
   font-family: 'Open Sans', sans-serif;
+  background-image: url("../images/woodgrain3.jpg");
 }
 
 
@@ -32,22 +33,24 @@ body {
   width: 80%;
   margin: 0 auto;
   /* background-color: #FF9500; */
-  background-color: #BBBBBB;
+  background-color: #C5C5AC;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
+
 }
 
 h1 {
   margin: 0;
   padding: 20px 0;  
-  color: #00539F;
+  color: #993200;
   text-shadow: 3px 3px 1px black;
 }
 
 button {
 	width: 25%;	
 	font-size: 30px;
-	background-color: #3385FF;
+	/*background-color: #3385FF; */
+	background-color: #AA5220;
 	color: #000033;
 	text-decoration: none;
 	border: 2px solid;

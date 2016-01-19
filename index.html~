@@ -9,16 +9,15 @@
   <body>
     <script src="scripts/jquery.js"></script>
 
-    <button id='ba'>Home</button><button id='b1'>Menu</button><button id='b2'>Directions</button><button id='b3'>Contact us</button><br>
+    <button id='bhome'>Home</button><button id='bmenu'>Menu</button><button id='bdirections'>Directions</button><button id='bcontact'>Contact us</button><br>
     <h1 id='logo1' >Restaurant L'Idiot</h1>
-    <h2 id='logo_saying' >Self esteem through overpaying.</h2>
 
     <div id="content">
 
     </div>
 
    <div>
-    <p id = parody_disclaimer>This site is a parody created to make an Odin Project assignment have some entertainment value. It is not intended to reflect upon any restaurant actually named "L'Idiot."</p>
+    <p id = parody_disclaimer>This site is an Odin Project programming assignment, and is not intended to reflect upon any restaurant actually named "L'Idiot."</p>
    </div>
 
     <script src="scripts/main.js"></script>
